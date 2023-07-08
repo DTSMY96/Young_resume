@@ -2,7 +2,7 @@
 layout: cv
 title: Matthew Young's Resume
 ---
-# Brigham Young
+# Matthew Young
 The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
@@ -84,6 +84,6 @@ __Service Missionary__, South Africa
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
