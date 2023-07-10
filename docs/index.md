@@ -3,7 +3,7 @@ layout: cv
 title: Matthew Young's Resume
 ---
 # Matthew Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,27 +16,15 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2023`
+__BYU-I__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Current Student with 3.2 GPA
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Plans to graduate by the end of 2023
 
 
 ## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Data Science Lead
 
